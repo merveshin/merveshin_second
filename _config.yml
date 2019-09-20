@@ -1,11 +1,11 @@
 # Site settings
-title: My Personal Blog
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: My Second Blog
+description: Data scientist.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+url: "https://merveshin.github.io/merveshin_second/" # the base hostname & protocol for your site
 
 pagination:
 
@@ -20,10 +20,10 @@ pagination:
 # Social
 facebook: facebook
 twitter: twitter
-github:  github
+github:  merveshin/merveshin_second
 
 #Additional Pages
-about: about
+about: I am a data scientist.
 contact: contact
 privacy-policy: privacy-policy
 
