@@ -4,7 +4,7 @@ description: Data scientist.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/merveshin_second/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://merveshin.github.io/merveshin_second/" # the base hostname & protocol for your site
 
 pagination:
